@@ -1,0 +1,25 @@
+{
+  "name": "math-game-pwa",
+  "version": "2.0.0",
+  "description": "Интерактивная математическая игра как PWA",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'PWA is ready to deploy'"
+  },
+  "keywords": [
+    "math",
+    "game",
+    "pwa",
+    "educational",
+    "javascript",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {}
+}
